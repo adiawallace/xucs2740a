@@ -13,10 +13,10 @@ import java.util.*;
 
 public class Course {
 
-    String subject;
-    String titleOfTheSubject;
-    String grade;
-    int hour;
+    private String subject;
+    private String titleOfTheSubject;
+    private String grade;
+    private int hour;
 
     public Course() {
         subject = "math";
